@@ -1,4 +1,4 @@
-![image](https://github.com/VerginJenifer/EXNO2DS/assets/136251012/bf138d14-66c7-4db2-ad0b-787f0a8ee0ce)# EXNO2DS
+
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -78,5 +78,5 @@ plt.show()
 
 
 
-# RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+# RESULT:
+Thus exploratory Data Analysis on the given data set is done successfully.
